@@ -1,0 +1,22 @@
+/* CSS Document */
+
+body {
+	background-image: url(bg.jpg);
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	height: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+    color: #E6E2B7;
+	background-color: #3C3C60;
+	scrollbar-face-color: #3C3C60;
+	scrollbar-highlight-color: #3C3C60;
+	scrollbar-3dlight-color: #E6E2B7;
+	scrollbar-darkshadow-color: #E6E2B7;
+	scrollbar-shadow-color: #3C3C60;
+	scrollbar-arrow-color: #E6E2B7;
+	scrollbar-track-color: #3C3C60;
+	}
+html { height: 100%; }
